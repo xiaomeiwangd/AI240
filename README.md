@@ -1,2 +1,2 @@
-# AI240
-Homework submission for AI240 class
+# AI  240
+Homework submission for AI240 class - Xiaomei Wang
